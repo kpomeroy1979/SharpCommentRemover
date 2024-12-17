@@ -1,0 +1,5 @@
+C:\tools\repos\SharpCommentREmover\bin\Debug\SharpCommentREmover.exe.config
+C:\tools\repos\SharpCommentREmover\bin\Debug\SharpCommentREmover.exe
+C:\tools\repos\SharpCommentREmover\obj\Debug\SharpCommentREmover.csproj.AssemblyReference.cache
+C:\tools\repos\SharpCommentREmover\obj\Debug\SharpCommentREmover.csproj.CoreCompileInputs.cache
+C:\tools\repos\SharpCommentREmover\obj\Debug\SharpCommentREmover.exe
